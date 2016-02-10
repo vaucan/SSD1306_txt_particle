@@ -13,6 +13,6 @@ SSD1306 data sheet:
 
 https://www.adafruit.com/datasheets/SSD1306.pdf
 
-The 8x8 font can originated from:
+The 8x8 font originated from:
 
 https://community.particle.io/t/8x8-matrix-led-and-spark-io/2369
