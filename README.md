@@ -12,3 +12,7 @@ http://robotcantalk.blogspot.se/2015/03/interfacing-arduino-with-ssd1306-driven.
 SSD1306 data sheet:
 
 https://www.adafruit.com/datasheets/SSD1306.pdf
+
+The 8x8 font can originated from:
+
+https://community.particle.io/t/8x8-matrix-led-and-spark-io/2369
